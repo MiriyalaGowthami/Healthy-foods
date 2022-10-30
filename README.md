@@ -1,7 +1,7 @@
 # Healthy-foods
 AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK :https://www.youtube.com/watch?v=7aAcGuUrBmg
 
 PROJECT DEMO URL: https://miriyalagowthami.github.io/Healthy-foods/
 
