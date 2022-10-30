@@ -1,5 +1,5 @@
 # Healthy-foods
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK :https://brave-smoke-05def3310.2.azurestaticapps.net
 
 YOUTUBE LINK :https://www.youtube.com/watch?v=7aAcGuUrBmg
 
